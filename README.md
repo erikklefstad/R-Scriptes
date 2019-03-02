@@ -1,2 +1,2 @@
-# R-Scriptes
+# R-Scripts
 Some R scripts
