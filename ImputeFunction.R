@@ -612,7 +612,7 @@ gc()
 #### Create outlier imputation flag columns ####
 xNums <- data.frame(xNums)
 
-# Calculate total number of rows/CustSiteIDs
+# Calculate total number of rows
 totalN <- nrow(xNums)
 
 # Update names of columns with values to impute
