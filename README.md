@@ -1,6 +1,8 @@
 # R-Scripts
 Some R scripts I've written and found useful.
 
+Writen in RStudio; comments of '#### Comment here ####' allow for code collapse.
+
 ### Condition Index
 This script creates a condition index from a given dataset and allows the user to interactively choose which variables to remove to reduce collinearity.  It determines which indices have variables with variance proportions above a given threshold.  It then chooses the index with the highest value and displays only those variables with variance proportions above the given threshold.  The user can then choose to remove a variable, see the next row in the current condition index, or stop the script.
 
